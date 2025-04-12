@@ -13,4 +13,3 @@ public class HelloWorld implements SparkApplication {
 	}
 }
 
-// comment
