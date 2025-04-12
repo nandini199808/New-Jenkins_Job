@@ -26,7 +26,7 @@ services:
 
     volumes:
 
-      - sonarqube_conf:/opt/sonarqube/conf
+      - sonarqube_conf:/opt/sonarqube/conf..
 
       - sonarqube_data:/opt/sonarqube/data
 
